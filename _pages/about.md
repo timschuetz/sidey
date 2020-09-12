@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Publications
 ---
 
 ### Peer-Reviewed Articles & Book Chapters
