@@ -1,9 +1,11 @@
 links:
-- title: Writing
+- title: Tim Schütz
   url: /
 - title: About
   url: /about
-- title: Search
-  url: /search
+- title: Publications
+  url: /publications
+- title: Talks
+  url: /talks
 - title: Rss
   url: /atom.xml
