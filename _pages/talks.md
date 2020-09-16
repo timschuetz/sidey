@@ -3,13 +3,15 @@ layout: page
 title: Talks
 ---
 
+### Upcoming
+
 “Following Taiwan’s Formosa Plastics.” International Taiwan Studies Conference, University of California Irvine. May 2021.
+
+### Past
 
 "Civic Data for the Anthropocene: Visualizing Taiwan's Formosa Plastics." 4S/EASST Conference. August 2020.
 
 "Installation Ethnography: Curation, Aesthetics, Experiments." 4S/EASST Conference. August 2020 (with James Adams).
-
-### Past
 
 “Archiving for the Anthropocene” The International Symposium on Anthropocene Studies. Seoul, December 10-11, 2019
 
