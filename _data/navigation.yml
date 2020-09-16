@@ -1,11 +1,11 @@
 links:
 - title: About
   url: /
+- title: Projects
+  url: /projects
 - title: Writing
   url: /publications
 - title: Talks
   url: /talks
-- title: Projects
-  url: /projects
 - title: CV
-  url: https://www.timschuetz.org/CV-TS-August2020.pdf
+  url: /cv
