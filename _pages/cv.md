@@ -4,33 +4,30 @@ title: CV
 ---
 
 
-Tim Schütz
+Johnny Coder
 ============
-tschuetz@uci.edu
-[@tmschtz](https://twitter.com/tmschtz)
+
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
 
 Education
 ---------
 
-2025 (expected)
-:   **PhD, Anthropology**; University of California, Irvine
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
 
-    *Advisor: Prof. Kim Fortun*
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
-2020
-:   **MA, Science and Technology Studies (STS)**; Goethe University Frankfurt
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
 
-    *Advisor: Prof. Gisela Welz*
-    
-    *Fulbright Fellowship, MA Medicine Science and Technology Studies (MSTS), University of California, Irvine, 2018–19*
-    
-**2017**
-: **BA, Media, Communication and Ethnology**; University of Bremen
+    *Minor: Awesomeology*
 
-    *Advisor: Prof. Michi Knecht; Dr. Sebastian Kubitschko*
-    
-    *Erasmus+, BA New Media, Bahcesehir University, Istanbul, Fall 2014–15*
-    
 Experience
 ----------
 
