@@ -12,27 +12,27 @@ twitter: [@tmschtz](www.twitter.com/tmschtz)
 
 ## Education
 
-2019-2025 (expected)
+<p>2019-2025 (expected)
 
 : **PhD, Anthropology**; University of California, Irvine
 
-: *Advisor: Prof. Kim Fortun*  
+: *Advisor: Prof. Kim Fortun*</p>
 
-2017-2020  
+<p>2017-2020  
 
 : **MA,  Science and Technology Studies**; Goethe University Frankfurt
 
 : *Advisor: Prof. Gisela Welz*
 
-: *Fulbright Fellowship, University of California, Irvine, 2018–19*
+: *Fulbright Fellowship, University of California, Irvine, 2018–19*</p>
 
-2012-2017  
+<p>2012-2017  
 
 : **BA, Media, Communication and Cultural Anthropology**; University of Bremen
 
 : *Advisor: Prof. Michi Knecht, Dr. Sebastian Kubitschko*
 
-: *Erasmus+ Student Exchange, Bahcesehir University, Istanbul, Fall 2014–15*
+: *Erasmus+ Student Exchange, Bahcesehir University, Istanbul, Fall 2014–15*</p>
 
 
 Fellowships, Grants & Awards
