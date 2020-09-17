@@ -5,7 +5,7 @@ title: Publications
 
 ### Peer-Reviewed Articles & Book Chapters
 
-Adams, James, Tim Schütz and Kim Fortun (in preperation). Ethnography in/of Quotidian Anthropocenes: Collaborations, Infrastructure, Tactics. *KA Notizen*. Frankfurt am Main. 
+Adams, James, Tim Schütz and Kim Fortun (in preperation). Ethnography in/of Quotidian Anthropocenes: Collaborations, Infrastructure, Tactics. *KA Notizen*. Frankfurt am Main 
 
 Schütz, Tim. (forthcoming). Archiving for the Anthropocene: Notes from the Field Campus. *Dear Anthropocene Exhibition Catalogue*. Ilmin Museum for Art, Seoul.
 
