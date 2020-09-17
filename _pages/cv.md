@@ -16,9 +16,9 @@ twitter: [@tmschtz](www.twitter.com/tmschtz)
 
 : **PhD, Anthropology**; University of California, Irvine
 
-: *Advisor: Prof. Kim Fortun*
+: *Advisor: Prof. Kim Fortun*  
 
-2017-2020
+2017-2020  
 
 : **MA,  Science and Technology Studies**; Goethe University Frankfurt
 
@@ -26,7 +26,7 @@ twitter: [@tmschtz](www.twitter.com/tmschtz)
 
 : *Fulbright Fellowship, University of California, Irvine, 2018–19*
 
-2012-2017
+2012-2017  
 
 : **BA, Media, Communication and Cultural Anthropology**; University of Bremen
 
@@ -37,12 +37,12 @@ twitter: [@tmschtz](www.twitter.com/tmschtz)
 
 Fellowships, Grants & Awards
 ----------
-2020 | Newkirk Graduate Student Fellowship Community-based Research
-2020 | UC Irvine Center for Asian Studies Scholarship
-2018–19 | German-American Fulbright Fellowship  
-2018–20 | German Academic Scholarship Foundation Fellowship  
-2017 | DARIAH-DE Digital Humanities Award  
-2014 | Erasmus+ Scholarship
+**2020** | Newkirk Graduate Student Fellowship Community-based Research  
+**2020** | UC Irvine Center for Asian Studies Scholarship  
+**2018–19** | German-American Fulbright Fellowship  
+**2018–20** | German Academic Scholarship Foundation Fellowship   
+**2017** | DARIAH-DE Digital Humanities Award  
+**2014** | Erasmus+ Scholarship  
 
 Teaching Experience
 --------------------
