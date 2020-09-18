@@ -12,27 +12,27 @@ twitter: [@tmschtz](www.twitter.com/tmschtz)
 
 ## Education
 
-<p>2019-2025 (expected)
+2019-2025 (expected)
 
 : **PhD, Anthropology**; University of California, Irvine
 
-: *Advisor: Prof. Kim Fortun*</p>
+: *Advisor: Prof. Kim Fortun*
 
-<p>2017-2020  
+2017-2020  
 
 : **MA,  Science and Technology Studies**; Goethe University Frankfurt
 
 : *Advisor: Prof. Gisela Welz*
 
-: *Fulbright Fellowship, University of California, Irvine, 2018–19*</p>
+: *Fulbright Fellowship, University of California, Irvine, 2018–19*
 
-<p>2012-2017  
+ 2012-2017  
 
 : **BA, Media, Communication and Cultural Anthropology**; University of Bremen
 
 : *Advisor: Prof. Michi Knecht, Dr. Sebastian Kubitschko*
 
-: *Erasmus+ Student Exchange, Bahcesehir University, Istanbul, Fall 2014–15*</p>
+: *Erasmus+ Student Exchange, Bahcesehir University, Istanbul, Fall 2014–15*
 
 
 Fellowships, Grants & Awards
@@ -53,7 +53,7 @@ Introduction to Sociocultural Anthropology (Dr. James Egan)
 
 Professional Service 
 --------------------
-**Platform for Experimental Collaborative Ethnography (PECE)** 
+: **Platform for Experimental Collaborative Ethnography (PECE)** 
 : Developing project architecture guidelines and publishing monthly newsletters
 
 Languages
