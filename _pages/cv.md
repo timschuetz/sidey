@@ -53,7 +53,7 @@ Introduction to Sociocultural Anthropology (Dr. James Egan)
 
 Professional Service 
 --------------------
-: **Platform for Experimental Collaborative Ethnography (PECE)** 
+**Platform for Experimental Collaborative Ethnography (PECE)** 
 : Developing project architecture guidelines and publishing monthly newsletters
 
 Languages
