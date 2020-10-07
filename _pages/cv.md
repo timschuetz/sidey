@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-[Download  PDF](https://docs.google.com/document/d/1ab5wGZGerman%20%28native%29,%20Icelandic%20%28fluent%29,%20Spanish,%20French%20%28intermediate%29,%20Turkish,%20Arabic%20%28beginner%29Kb4ieLRCdiT29AQRdrE07FSyHXdoYFiyCzjM/edit)
+[View full CV in Google Docs](https://docs.google.com/document/d/1ab5wGZ6Kb4ieLRCdiT29AQRdrE07FSyHXdoYFiyCzjM/edit?usp=sharing)
 
 Tim Schütz
 ------------------- 
