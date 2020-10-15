@@ -17,7 +17,7 @@ Kubitschko, Sebastian and Tim Schütz. 2017. Humanitarian media interventions: d
 
 ### Blogs & Reports
 
-Schütz, Tim. (2020).“Ethnographers and Civic Data: Insights from Environmental Activists” boasblogs/Fieldwork Meets Crisis. October 29. (link)
+Schütz, Tim. (2020).“Ethnographers and Civic Data: Insights from Environmental Activists” boasblogs/Fieldwork Meets Crisis. October 29. ([link](https://boasblogs.org/fieldworkmeetscrisis/ethnographers-and-civic-data-infrastructure))
 
 Schütz, Tim. (2019). Archiving for the Anthropocene: Notes from the Field Campus. *Platypus*. October 29, 2019. ([link](http://blog.castac.org/2019/10/archiving-for-the-anthropocene-notes-from-the-field-campus/?fbclid=IwAR1GrKndGBMAFlnxyf_00WLlp6UlR7C75oZfxBdGMA7r4JucU9k-occwE1I))
 
