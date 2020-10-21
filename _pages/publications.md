@@ -5,8 +5,6 @@ title: Publications
 
 ### Peer-Reviewed Articles & Book Chapters
 
-Adams, James, Tim Schütz and Kim Fortun (in preperation). Ethnography in/of Quotidian Anthropocenes: Collaborations, Infrastructure, Tactics. *KA Notizen*. Frankfurt am Main. 
-
 Schütz, Tim. (forthcoming). Archiving for the Anthropocene: Notes from the Field Campus. *Dear Anthropocene Exhibition Catalogue*. Ilmin Museum for Art, Seoul.
 
 Schütz, Tim and Monic Meisel. (2020). Free Wireless Network Activism and the Industrialized Media Infrastructures of Forced Migration. In: McGuirk, Siobhán & Pine, Adrienne (eds.) *Asylum for Sale: Profit, and Protest in the Migration Industry*. Oakland: PM Press. ([link](https://www.pmpress.org/index.php?l=product_detail&p=1097))
