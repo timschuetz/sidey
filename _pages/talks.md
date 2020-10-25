@@ -7,6 +7,8 @@ title: Talks
 
 “Following Taiwan’s Formosa Plastics.” International Taiwan Studies Conference, University of California Irvine. May 2021.
 
+"Archiving for Quotidian Anthropocenes: From Los Angeles to Reserve, Louisiana and Istanbul." Istanbul Unbound Conference, April 8-11, 2021.
+
 ### Past
 
 “Beyond Environmental Injustice: Installation Ethnography and Pedagogy in Covid-19.” Doctoral Students in Urban Planning (DSUP) Seminar Series, University of Illinois Urbana-Champaign, September 30, 2020.
