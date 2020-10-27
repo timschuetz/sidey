@@ -11,6 +11,8 @@ title: Talks
 
 ### Past
 
+"Ethnographers, Civic Data, COVID-19: Insights from Environmental Activists." Fieldwork Meets Crisis, Virtual Autumn School, October 23, 2020.
+
 “Beyond Environmental Injustice: Installation Ethnography and Pedagogy in Covid-19.” Doctoral Students in Urban Planning (DSUP) Seminar Series, University of Illinois Urbana-Champaign, September 30, 2020.
 
 "Civic Data for the Anthropocene: Visualizing Taiwan's Formosa Plastics." 4S/EASST Conference. August 2020.
