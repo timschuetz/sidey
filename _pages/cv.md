@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-[Download PDF](https://timschuetz.com/uploads/ts-cv-10-2020.pdf)
+[View in Google Docs](https://docs.google.com/document/d/1ab5wGZ6Kb4ieLRCdiT29AQRdrE07FSyHXdoYFiyCzjM/edit)
