@@ -20,7 +20,7 @@ title: Talks
  
 ### Conferences and Workshops
 
-"Archiving the Anthropocene(s): The Quotidian Anthropocenes Project". The Shape of a Practice. Haus der Kulturen der Welt Berlin, October 29, 2020.
+"Archiving the Anthropocene(s): The Quotidian Anthropocenes Project". The Shape of a Practice. Haus der Kulturen der Welt Berlin, October 29, 2020 (with Jason Ludwig).
 
 "Ethnographers, Civic Data, COVID-19: Insights from Environmental Activists." Fieldwork Meets Crisis, Virtual Autumn School, October 23, 2020.
 
