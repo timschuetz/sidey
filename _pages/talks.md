@@ -11,7 +11,7 @@ title: Talks
 
 ### Invited Talks
 
- "Civic Data for the Anthropocene: Following Taiwan's Formosa Plastics". RUSTLab Lecture Series: Data & Experimentalism, Ruhr Universität Bochum, December 3, 2020.
+ "Civic Data for the Anthropocene: Following Taiwan's Formosa Plastics". RUSTLab Lecture Series: Data & Experimentalism, Ruhr Universität Bochum, December 3, 2020. ([link](https://rustlab.ruhr-uni-bochum.de/rustlab-lectures/)).
  
  "Archivieren für das Anthropozän: Einsichten aus dem Umweltaktivismus". Department of History. Seminar: "Katastrophen(wissenschaften) in Geschichte und Gegenwart" hosted by Cécile Stehrenberger, Bergische Universität Wuppertal, November 19, 2020.
  
@@ -23,6 +23,8 @@ title: Talks
 "Archiving the Anthropocene(s): The Quotidian Anthropocenes Project". The Shape of a Practice. Haus der Kulturen der Welt Berlin, October 29, 2020.
 
 "Ethnographers, Civic Data, COVID-19: Insights from Environmental Activists." Fieldwork Meets Crisis, Virtual Autumn School, October 23, 2020.
+
+"Civic Data and Case Study for Santa Ana, CA." Beyond Environmental Injustice. Disaster STS Research Network, October 23, 2020. ([link](https://disaster-sts-network.org/content/civic-data-and-case-study-santa-ana)). 
 
 "Civic Data for the Anthropocene: Visualizing Taiwan's Formosa Plastics." 4S/EASST Conference. August 2020.
 
