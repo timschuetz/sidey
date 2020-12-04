@@ -9,17 +9,26 @@ title: Talks
 
 "Archiving for Quotidian Anthropocenes: From Los Angeles to Reserve, Louisiana and Istanbul." Istanbul Unbound Conference, April 8-11, 2021.
 
-### Past
+### Invited Talks
+
+ "Civic Data for the Anthropocene: Following Taiwan's Formosa Plastics". RUSTLab Lecture Series: Data & Experimentalism, Ruhr Universität Bochum, December 3, 2020.
+ 
+ "Archivieren für das Anthropozän: Einsichten aus dem Umweltaktivismus". Department of History. Seminar: "Katastrophen(wissenschaften) in Geschichte und Gegenwart" hosted by Cécile Stehrenberger, Bergische Universität Wuppertal, November 19, 2020.
+ 
+ “Beyond Environmental Injustice: Installation Ethnography and Pedagogy in Covid-19.” Doctoral Students in Urban Planning (DSUP) Seminar Series, University of Illinois Urbana-Champaign, September 30, 2020 (with Prerna Srigyan).
+ 
+ 
+### Conferences and Workshops
+
+"Archiving the Anthropocene(s): The Quotidian Anthropocenes Project". The Shape of a Practice. Haus der Kulturen der Welt Berlin, October 29, 2020.
 
 "Ethnographers, Civic Data, COVID-19: Insights from Environmental Activists." Fieldwork Meets Crisis, Virtual Autumn School, October 23, 2020.
-
-“Beyond Environmental Injustice: Installation Ethnography and Pedagogy in Covid-19.” Doctoral Students in Urban Planning (DSUP) Seminar Series, University of Illinois Urbana-Champaign, September 30, 2020.
 
 "Civic Data for the Anthropocene: Visualizing Taiwan's Formosa Plastics." 4S/EASST Conference. August 2020.
 
 "Installation Ethnography: Curation, Aesthetics, Experiments." 4S/EASST Conference. August 2020 (with James Adams).
 
-“Archiving for the Anthropocene” The International Symposium on Anthropocene Studies. Seoul, December 10-11, 2019
+“Archiving for the Anthropocene” The International Symposium on Anthropocene Studies, Seoul, December 10-11, 2019
 
 “Mississippi River Anthropocenes: Running the River School.” Society for the Social Studies of Science (4S) New Orleans, September 4-7, 2019.
 
