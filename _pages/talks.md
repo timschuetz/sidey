@@ -17,7 +17,6 @@ title: Talks
  
  “Beyond Environmental Injustice: Installation Ethnography and Pedagogy in Covid-19.” Doctoral Students in Urban Planning (DSUP) Seminar Series, University of Illinois Urbana-Champaign, September 30, 2020 (with Prerna Srigyan).
  
- 
 ### Conferences and Workshops
 
 "Archiving the Anthropocene(s): The Quotidian Anthropocenes Project". The Shape of a Practice. Haus der Kulturen der Welt Berlin, October 29, 2020 (with Jason Ludwig).
