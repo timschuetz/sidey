@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-[View in Google Docs](https://docs.google.com/document/d/1ab5wGZ6Kb4ieLRCdiT29AQRdrE07FSyHXdoYFiyCzjM/edit)
+[View](https://timschuetz.com/uploads/ts-cv-12-2020.pdf)

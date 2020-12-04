@@ -13,6 +13,8 @@ title: Talks
 
  "Civic Data for the Anthropocene: Following Taiwan's Formosa Plastics". RUSTLab Lecture Series: Data & Experimentalism, Ruhr Universität Bochum, December 3, 2020. ([link](https://rustlab.ruhr-uni-bochum.de/rustlab-lectures/)).
  
+ "Civic Data: Needs, Designs, Tactics". Guest lecture for Introduction to Global Studies hosted by Tzu-Chi Ou, National Chengchi University Taipei, December 2, 2020.
+ 
  "Archivieren für das Anthropozän: Einsichten aus dem Umweltaktivismus". Department of History. Seminar: "Katastrophen(wissenschaften) in Geschichte und Gegenwart" hosted by Cécile Stehrenberger, Bergische Universität Wuppertal, November 19, 2020.
  
  “Beyond Environmental Injustice: Installation Ethnography and Pedagogy in Covid-19.” Doctoral Students in Urban Planning (DSUP) Seminar Series, University of Illinois Urbana-Champaign, September 30, 2020 (with Prerna Srigyan).
