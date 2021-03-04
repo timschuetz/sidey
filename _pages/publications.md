@@ -5,6 +5,8 @@ title: Publications
 
 ### Peer-Reviewed Articles & Book Chapters
 
+Fortun, Kim, Mike Fortun, Angela Hitomi Skye Crandall Okune, Tim Schütz, Shan-Ya Su. (2021). Civic Community Archiving with the Platform for Experimental Collaborative Ethnography: Double Binds and Design Challenges. HCI International 2021 Proceedings.
+
 Schütz, Tim. (2021). Archiving for the Anthropocene: Notes from the Field Campus. *Dear Amazon – On the Anthropocene 디어 아마존—인류세에 관하여*. Exhibition Catalogue. Ilmin Museum for Art, Seoul. ([link](https://smartstore.naver.com/imadesignstore/products/5310169227))
 
 Schütz, Tim and Monic Meisel. (2020). Free Wireless Network Activism and the Industrialized Media Infrastructures of Forced Migration. In: McGuirk, Siobhán & Pine, Adrienne (eds.) *Asylum for Sale: Profit, and Protest in the Migration Industry*. Oakland: PM Press. ([link](https://www.pmpress.org/index.php?l=product_detail&p=1097))
